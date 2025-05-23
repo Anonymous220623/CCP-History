@@ -23,3 +23,19 @@
 ![](Assets/CHAPTER1/1.1.3.png)
 
 <p align="center"> 图 1.1.3 -  <a href="https://baike.baidu.com/item/%E6%9D%8E%E6%B1%89%E4%BF%8A/26412#1">百度百科</a>上关于李汉俊的留学经历 </p>
+
+![](Assets/CHAPTER1/1.1.4.png)
+
+<p align="center"> 图 1.1.4 -  <a href="https://baike.baidu.com/item/%E9%99%88%E6%9C%9B%E9%81%93#1">百度百科</a>上关于陈望道的留学经历 </p>
+
+![](Assets/CHAPTER1/1.1.5.png)
+
+<p align="center"> 图 1.1.5 -  <a href="https://baike.baidu.com/item/%E6%9D%A8%E6%98%8E%E6%96%8B/6746413#1">百度百科</a>上关于杨明斋的留学和工作经历 </p>
+
+![](Assets/CHAPTER1/1.1.6.png)
+
+<p align="center"> 图 1.1.6 -  <a href="https://baike.baidu.com/item/%E6%9D%8E%E8%BE%BE/16569460#1">百度百科</a>上关于李达的留学经历 </p>
+
+![](Assets/CHAPTER1/1.1.7.png)
+
+<p align="center"> 图 1.1.6 -  <a href="https://baike.baidu.com/item/%E9%82%B5%E5%8A%9B%E5%AD%90/8692683#1">百度百科</a>上关于邵力子的留学经历 </p>
