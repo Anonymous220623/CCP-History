@@ -38,4 +38,4 @@
 
 ![](Assets/CHAPTER1/1.1.7.png)
 
-<p align="center"> 图 1.1.6 -  <a href="https://baike.baidu.com/item/%E9%82%B5%E5%8A%9B%E5%AD%90/8692683#1">百度百科</a>上关于邵力子的留学经历 </p>
+<p align="center"> 图 1.1.7 -  <a href="https://baike.baidu.com/item/%E9%82%B5%E5%8A%9B%E5%AD%90/8692683#1">百度百科</a>上关于邵力子的留学经历 </p>
